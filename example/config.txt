@@ -1,0 +1,2 @@
+Prefix plugins/GO/example/
+Plugin GO inputfile parameters.GO.txt outputfile results
